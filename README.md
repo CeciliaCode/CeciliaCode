@@ -24,7 +24,7 @@ Software developer with foundation in both backend and frontend technologies, le
 - 🐳 [Docker](https://hub.docker.com/u/ceciliasw)
 - 🐈‍⬛ [Former GitHub](https://github.com/CeciliaSW)
 - 😺 [Actual GitHub](https://github.com/CeciliaCode)
-- 
+  
 ---
 
 ## 🧠 Personal skills and values
