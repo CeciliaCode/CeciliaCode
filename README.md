@@ -107,7 +107,7 @@ Participated in a simulated United Nations discussion forum, contributing to in-
 <div>
   <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" width="30" height="60" alt="MongoDB" />
   <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="50" height="60" alt="Firebase" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" height="60" alt="SQL Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80" height="60" alt="SQL Server" />
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="60" height="60" alt="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="60" height="60" alt="SQLite" />
 
