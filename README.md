@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=8A87C2&height=200&desc=Saludos%20🎉,%20soy%20%7C%20Greetings%20🧋,%20I%20am%20%7C%20Bonjour%20🥖,%20je%20suis%20%7C%20こんにちは私は%20🍜&fontSize=20&fontColor=FFFFFF&descAlign=58&descAlignY=25&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=617095&height=200&desc=Saludos%20🎉,%20soy%20%7C%20Greetings%20🧋,%20I%20am%20%7C%20Bonjour%20🥖,%20je%20suis%20%7C%20こんにちは私は%20🍜&fontSize=20&fontColor=FFFFFF&descAlign=58&descAlignY=25&fontAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Cecilia%20Peña&fontSize=70&color=0:8a8fcf,100:b498c4&fontColor=FFFFFF&stroke=8a8fcf&strokeWidth=2.2)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Cecilia%20Peña&fontSize=70&color=0:617095,100:8a8fcf&fontColor=FFFFFF&stroke=8a8fcf&strokeWidth=2.2)
 
 <p align="center">
   <strong style="color: #8a8FCF;">SOFTWARE ENGINEERING STUDENT</strong>
@@ -137,11 +137,11 @@ Participated in a simulated United Nations discussion forum, contributing to in-
 
 ---
 
-## 🖊️ Highlights
+## ✏️ Highlights
 - Completed the course: <div>
   <img src="https://technolochicas.org/templatesitio/assets/img/logo-color-high.png" width="150" alt="TECHNOLOchicas PRO Logo" />
 </div> 
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&animation=twinkling&desc=📢%20cecilia.pena.sotware@gmail.com&descAlign=20&descAlignY=85&descsize=10&color=gradient&customColorList=25,16)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&animation=twinkling&desc=📢%20cecilia.pena.sotware@gmail.com&descAlign=20&descAlignY=85&descsize=10&color=gradient&customColorList=25,14)
