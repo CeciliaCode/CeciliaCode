@@ -10,15 +10,12 @@
 
 ## 📝 About me
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Software developer with foundation in both backend and frontend technologies, leveraging an interdisciplinary background to approach problems from multiple angles for innovative and efficient solutions. Performed well in team collaboration, leadership, and continuous learning, always seeking to refine skills and stay at the forefront of technological advancements.
-  </div>
-  <div style="flex: 0 0 60px; margin-left: 10px;">
+Software developer with foundation in both backend and frontend technologies, leveraging an interdisciplinary background to approach problems from multiple angles for innovative and efficient solutions. Performed well in team collaboration, leadership, and continuous learning, always seeking to refine skills and stay at the forefront of technological advancements.
+  
+  <div align="center">
     <img src="https://github.com/user-attachments/assets/5d5901c9-7f81-4f83-8acc-c6e4dc86b4a2" style="width: 60px; height: 110px; border-radius: 10px;">
   </div>
-</div>
-
+  
 ---
 
 ## 📞 Profiles
@@ -27,6 +24,7 @@
 - 🐳 [Docker](https://hub.docker.com/u/ceciliasw)
 - 🐈‍⬛ [Former GitHub](https://github.com/CeciliaSW)
 - 😺 [Actual GitHub](https://github.com/CeciliaCode)
+- 
 ---
 
 ## 🧠 Personal skills and values
