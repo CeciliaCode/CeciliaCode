@@ -15,7 +15,8 @@ Software developer with foundation in both backend and frontend technologies, le
 ---
 
 ## 📞 Profiles
-- 🇱 [LinkedIn](https://www.linkedin.com/in/ceciliasw)
+- 🛜 [Website](https://ceciliasw.github.io/)
+-  🇱 [LinkedIn](https://www.linkedin.com/in/ceciliasw)
 - 🐳 [Docker](https://hub.docker.com/u/ceciliasw)
 - 🐈‍⬛ [Former GitHub](https://github.com/CeciliaSW)
 - 😺 [Actual GitHub](https://github.com/CeciliaCode)
