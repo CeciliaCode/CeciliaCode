@@ -60,12 +60,12 @@ Participated in a simulated United Nations discussion forum, contributing to in-
 ---
 
 ## 🎓 Education
-- **Pursuing Software Engineering and Computational Systems degree**  
-  La Salle Bajío University – Campestre Campus (2021-2025)
-- **Employability and frontend programming**  
-  TECHNOLOCHICAS PRO (2022)
-- **Cambridge First Certificate in English**  
-  Rye School of English (2020)
+- **Pursuing Software Engineering and Computational Systems degree (2021-2025)**  
+  La Salle Bajío University – Campestre Campus
+- **Employability and frontend programming (2022)**  
+  TECHNOLOCHICAS PRO
+- **Cambridge First Certificate in English (2020)**  
+  Rye School of English
 
 ---
 
