@@ -87,8 +87,8 @@ Participated in a simulated United Nations discussion forum, contributing to in-
 
 ### Frontend:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="60" height="60" alt="Bootstrap" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60" alt="Angular" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="70" height="60" alt="Bootstrap" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="65" alt="Angular" />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="60" height="60" alt="HTML5" />
    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="60" height="60" alt="CSS" />
   <img src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" width="60" height="60" alt="Ionic" />
