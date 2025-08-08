@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Cecilia%20Peña&fontSize=70&color=0:617095,100:8a8fcf&fontColor=FFFFFF&stroke=8a8fcf&strokeWidth=2.2)
 
 <p align="center">
-  <strong style="color: #8a8FCF;">SOFTWARE ENGINEERING STUDENT</strong>
+  <strong style="color: #8a8FCF;">SOFTWARE ENGINEERING GRADUATE</strong>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Software developer with foundation in both backend and frontend technologies, le
 
 ### Software projects
 **La Salle Bajío University – Campestre Campus (2021-2025)**  
-Scholar activities strengthened the knowledge acquired in the engineering program. For instance: Geographical data analysis with Python; usage of relational and non-relational database engines in virtual or docker environments, integrated with ETL and SAS, along Power BI visual representations; code editor creation based on Electron; responsive websites using Bootstrap, and React with Express, Node.js and Django; software testing with Mocha; structured and object-oriented programming with Java; Swing forms and sale points with C#; grading and voting applications with Ionic and Expo; website QR processing with Angular; CRUD with Swift; iOS cinema ticket application with Java rest API; task organizers developed on MAUI and Kotlin; active directory on Windows and Linux systems; Cisco networking; image processing.
+Scholar activities strengthened the knowledge acquired in the engineering program. For instance: Geographical data analysis with Python; usage of relational and non-relational database engines in virtual or docker environments, integrated with ETL and SAAS, along Power BI visual representations; code editor creation based on Electron; responsive websites using Bootstrap, and React with Express, Node.js and Django; software testing with Mocha; structured and object-oriented programming with Java; Swing forms and sale points with C#; grading and voting applications with Ionic and Expo; website QR processing with Angular; CRUD with Swift; iOS cinema ticket application with Java rest API; task organizers developed on MAUI and Kotlin; active directory on Windows and Linux systems; Cisco networking; image processing.
 
 ### Group leadership
 **La Salle Bajío University – Campestre Campus (2021-2025)**  
