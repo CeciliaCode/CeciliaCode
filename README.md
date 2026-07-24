@@ -66,7 +66,7 @@ Participated in a simulated United Nations discussion forum, contributing to in-
 ---
 
 ## 🎓 Education
-- **Pursuing Software Engineering and Computational Systems degree (2021-2025)**  
+- **Software Engineering and Computational Systems degree (2021-2025)**  
   La Salle Bajío University – Campestre Campus
 - **Employability and frontend programming (2022)**  
   TECHNOLOCHICAS PRO
