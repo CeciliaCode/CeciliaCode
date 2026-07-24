@@ -8,6 +8,16 @@
 
 Software engineer. My experience includes backend and full-stack development, REST APIs, relational and non-relational databases, cloud infrastructure, CI/CD, data analysis, and software testing. I enjoy building reliable solutions, documenting technical processes, and continuously expanding my knowledge.
 
+## 🚀 Featured projects
+
+| Project | Description |
+|---|---|
+| [MonoMap](https://github.com/CeciliaCode/monomap) | REST API built with TypeScript, Node.js, Express, MongoDB, Docker, Mapbox, and GitHub Actions. |
+| [MonoMap infrastructure](https://github.com/CeciliaCode/infrastructure-monomap) | Infrastructure and deployment automation using Terraform, Docker, Nginx, Azure, and CI/CD. |
+| [Verdanvest](https://github.com/CeciliaCode/Verdanvest-luxury-clothing-e-commerce) | Django and MySQL e-commerce prototype with authentication, product management, a shopping cart, simulated checkout, and order history. |
+| [Tableau dashboards](https://github.com/CeciliaCode/Tableau-dashboards) | Collection of strategic, tactical, and operational dashboards developed in Tableau for data analysis and business intelligence exercises. |
+| [SSIS data warehouse](https://github.com/CeciliaCode/SSIS-Academic-Data-Warehouse-Exercise) | ETL and data warehouse exercise developed with SQL Server Integration Services, SQL Server, and a MySQL source database. |
+
 ## 🛠️ Technology stack
 
 ### Development
