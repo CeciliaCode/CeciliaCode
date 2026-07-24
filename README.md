@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=617095&height=200&desc=Saludos%20🎉,%20soy%20%7C%20Greetings%20🧋,%20I%20am%20%7C%20Bonjour%20🥖,%20je%20suis%20%7C%20こんにちは私は%20🍜&fontSize=20&fontColor=FFFFFF&descAlign=58&descAlignY=25&fontAlignY=30)
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Cecilia%20Peña&fontSize=70&color=0:617095,100:8a8fcf&fontColor=FFFFFF&stroke=8a8fcf&strokeWidth=2.2)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&animation=twinkling&desc=📢%20cecilia.pena.sotware@gmail.com&descAlign=20&descAlignY=85&descsize=10&color=gradient&customColorList=25,14)
+![header](https://capsule-render.vercel.app/api?type=blur&height=280&section=header&color=0:FF4D8D,35:8B5CF6,70:0EA5E9,100:14B8A6&text=Cecilia%20Peña&fontSize=76&fontColor=FFFFFF&fontAlignY=43&desc=Software%20engineer%20-%20Backend%20-%20Cloud%20-%20Data&descSize=20&descAlignY=68&animation=fadeIn)
 
 ## 📝 About me
 
