@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Cecilia%20Peña&fontSize=70&color=0:617095,100:8a8fcf&fontColor=FFFFFF&stroke=8a8fcf&strokeWidth=2.2)
 
 <p align="center">
-  <strong style="color: #8a8FCF;">SOFTWARE ENGINEERING GRADUATE</strong>
+  <strong style="color: #8a8FCF;">SOFTWARE ENGINEER</strong>
 </p>
 
 ---
