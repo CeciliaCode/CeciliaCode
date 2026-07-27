@@ -10,7 +10,7 @@ Software engineer. My experience includes backend and full-stack development, RE
 |---|---|
 | [MonoMap](https://github.com/CeciliaCode/monomap) | REST API built with TypeScript, Node.js, Express, MongoDB, Docker, Mapbox, and GitHub Actions. |
 | [MonoMap infrastructure](https://github.com/CeciliaCode/infrastructure-monomap) | Infrastructure and deployment automation using Terraform, Docker, Nginx, Azure, and CI/CD. |
-| [Verdanvest](https://github.com/CeciliaCode/Verdanvest-luxury-clothing-e-commerce) | Django and MySQL e-commerce prototype with authentication, product management, a shopping cart, simulated checkout, and order history. |
+| [Catalogue and CRUD with React](https://github.com/CeciliaCode/Catalogue-and-CRUD-with-React) | E-commerce prototype with product management and shopping cart.
 | [Tableau dashboards](https://github.com/CeciliaCode/Tableau-dashboards) | Collection of strategic, tactical, and operational dashboards developed in Tableau for data analysis and business intelligence exercises. |
 | [SSIS data warehouse](https://github.com/CeciliaCode/SSIS-Academic-Data-Warehouse-Exercise) | ETL and data warehouse exercise developed with SQL Server Integration Services, SQL Server, and a MySQL source database. |
 
@@ -28,6 +28,7 @@ Software engineer. My experience includes backend and full-stack development, RE
 
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
