@@ -13,6 +13,8 @@ Software engineer. My experience includes backend and full-stack development, RE
 | [Catalogue and CRUD with React](https://github.com/CeciliaCode/Catalogue-and-CRUD-with-React) | E-commerce prototype with product management and shopping cart.
 | [Tableau dashboards](https://github.com/CeciliaCode/Tableau-dashboards) | Collection of strategic, tactical, and operational dashboards developed in Tableau for data analysis and business intelligence exercises. |
 | [SSIS data warehouse](https://github.com/CeciliaCode/SSIS-Academic-Data-Warehouse-Exercise) | ETL and data warehouse exercise developed with SQL Server Integration Services, SQL Server, and a MySQL source database. |
+| [Video game sales analysis with Power BI](https://github.com/CeciliaCode/Videogame-sales-PowerBI-analysis) | Interactive Power BI analysis of historical video game sales; comparing titles, platforms, genres, publishers, regions, and release years to reveal market trends and regional differences. |
+| [Applied computer vision and machine learning](https://github.com/CeciliaCode/Applied-computer-vision-ML) | Academic Python studies covering eye-region segmentation in a video associated with nystagmus, dish soap viscosity estimation through falling-marble tracking, and geometric-shape classification with MLP and SVM models. |
 
 ## 🛠️ Technology stack
 
